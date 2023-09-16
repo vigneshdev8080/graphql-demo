@@ -11,3 +11,15 @@ This project demonstrates the following key concepts:
 - Creating a GraphQL schema and defining types and resolvers.
 - Performing GraphQL queries and mutations.
 
+## Accessing the GraphQL Playground
+
+To access the Apollo GraphQL Sandbox Playground:
+
+
+1. Ensure the GraphQL server is running. If not, start it by running:
+
+   npm start
+
+2. Open your browser and enter this URL
+   
+   http://localhost:3000/
